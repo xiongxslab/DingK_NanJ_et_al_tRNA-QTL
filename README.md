@@ -36,7 +36,7 @@ To run this project, you need the following prerequisites:
 **5.4 tQTL features:** Code for comparison of tQTLs across tissues and ancestries, tRNA location enrichment, tQTL regulator identification and differential expression analysis of knock-down experiment.
 
 **5.5 integrative tQTL-pQTL analysis:** Code for the investigation of codon demand vs. regulon size, tRNA regulatory preferences for proteins, translational effect size balance, and GO enrichment analysis.
-## 6. ribo-seq process
+## 6. Ribo-seq process
 
-   Code for Ribo-seq + RNA-seq data processing workflow. 
+   Code for Ribo-seq + RNA-seq data processing workflow, from raw FASTQ processing to TE comparisons and codon frequency association analyses.
 
